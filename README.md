@@ -21,9 +21,7 @@
   <a href="https://github.com/saiaika">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/ibr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
 </div>
 
 <!-- Visitor Count & Profile Views -->
